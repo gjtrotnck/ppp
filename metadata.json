@@ -1,0 +1,7 @@
+{
+  "name": "연애 밸런스 게임 테스트",
+  "description": "깻잎 논쟁, 새우 논쟁 등 10대 연애 밸런스 게임으로 알아보는 나의 연애 질투 유형과 성향 테스트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
